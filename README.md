@@ -6,6 +6,7 @@
 
 
 ![Bryan ](https://github-readme-stats.vercel.app/api?username=Bryan-Caua&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Caua)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso no meu dia a dia
 
